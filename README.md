@@ -1,5 +1,7 @@
 # 基于 ResNet 的垃圾分类系统&nbsp;(Garbage Classification Powered by ResNet)<br>
 
+![welcome](https://user-images.githubusercontent.com/30148847/160409138-0d20d886-5641-4731-b8ce-a0aad8a6b41e.png)
+
 ## Get started
 ```
 pip install -r requirements.txt
