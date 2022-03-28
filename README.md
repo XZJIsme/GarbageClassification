@@ -1,4 +1,8 @@
 # 基于 ResNet 的垃圾分类系统&nbsp;(Garbage Classification Powered by ResNet)<br>
+欢迎提 issue 喔&nbsp;:-O
+
+<div align=center><img width="392" height="215" src="https://user-images.githubusercontent.com/30148847/160409730-d6d6f0fa-55d1-4dd9-894a-ee020b638463.png"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/30148847/160409316-e0b306a7-da75-4503-84cd-9ccd7ffea7c9.png"/></div>
 
 ## Get started
 ```
@@ -14,8 +18,8 @@ pip3 install torch torchvision torchaudio --extra-index-url https://download.pyt
 如果要打包为 exe，分别打包 main.py 和 AI_server_listener.py。打包客户端（main.py）时推荐使用 UPX 压缩
 
 ```
-pyinstaller.exe -F .\main.py [--upx-dir=UPX路径] [-i 14-garbage-classification-icon.ico]
-pyinstaller.exe -F .\AI_server_listener.py [--upx-dir=UPX路径]
+pyinstaller.exe -F .\main.py [--upx-dir=UPX 路径] [-i 14-garbage-classification-icon.ico]
+pyinstaller.exe -F .\AI_server_listener.py [--upx-dir=UPX 路径]
 ```
 ## Introduction
 当前的体验一般般，模型训练得泛化能力也很不好，但是 anyway，撑过了实训…… 无语的实训…… 不过没有实训，也不会做这个东西，至少算是个项目吧！
@@ -34,6 +38,9 @@ AI 文件夹里的是后端，其余都是客户端
 <br>· 模型训练，可以实时传递回训练的 loss 下降情况
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/30148847/160412920-e409ef4e-2837-41a0-a6dd-e354cddb1e88.png)
+![image](https://user-images.githubusercontent.com/30148847/160412985-b1d70c3f-360a-4f58-989e-eb8c29977793.png)
+![image](https://user-images.githubusercontent.com/30148847/160413055-b30276e5-a583-4321-bc05-033b5cb644ab.png)
 
 ## ToDo
 ·&nbsp;训练失败的消息回传<br>
