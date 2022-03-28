@@ -38,9 +38,9 @@ AI 文件夹里的是后端，其余都是客户端
 <br>· 模型训练，可以实时传递回训练的 loss 下降情况
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/30148847/160412513-0ab2937b-1798-48db-8327-af01b38021fc.png)
-![image](https://user-images.githubusercontent.com/30148847/160412435-8bed7e6d-7856-4e00-a20d-3dad48b80dd6.png)
-![image](https://user-images.githubusercontent.com/30148847/160412617-74309ff2-407f-4471-b06e-344b6f498e51.png)
+![image](https://user-images.githubusercontent.com/30148847/160412920-e409ef4e-2837-41a0-a6dd-e354cddb1e88.png)
+![image](https://user-images.githubusercontent.com/30148847/160412985-b1d70c3f-360a-4f58-989e-eb8c29977793.png)
+![image](https://user-images.githubusercontent.com/30148847/160413055-b30276e5-a583-4321-bc05-033b5cb644ab.png)
 
 ## ToDo
 ·&nbsp;训练失败的消息回传<br>
