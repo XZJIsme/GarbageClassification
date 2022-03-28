@@ -1,6 +1,8 @@
 # 基于 ResNet 的垃圾分类系统&nbsp;(Garbage Classification Powered by ResNet)<br>
+欢迎提 issue 喔&nbsp;:-O
 
-![welcome](https://user-images.githubusercontent.com/30148847/160409138-0d20d886-5641-4731-b8ce-a0aad8a6b41e.png)
+<div align=center><img width="392" height="215" src="https://user-images.githubusercontent.com/30148847/160409730-d6d6f0fa-55d1-4dd9-894a-ee020b638463.png"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/30148847/160409316-e0b306a7-da75-4503-84cd-9ccd7ffea7c9.png"/></div>
 
 ## Get started
 ```
@@ -36,6 +38,9 @@ AI 文件夹里的是后端，其余都是客户端
 <br>· 模型训练，可以实时传递回训练的 loss 下降情况
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/30148847/160411923-973df72f-bbf7-417e-8581-d80236ba8edb.png)
+![image](https://user-images.githubusercontent.com/30148847/160412120-1d068af1-8856-47fe-b7b8-de52949850ee.png)
+![image](https://user-images.githubusercontent.com/30148847/160412218-58ba0e0b-1585-44e2-95a0-79edd33e9053.png)
 
 ## ToDo
 ·&nbsp;训练失败的消息回传<br>
