@@ -14,8 +14,8 @@ pip3 install torch torchvision torchaudio --extra-index-url https://download.pyt
 如果要打包为 exe，分别打包 main.py 和 AI_server_listener.py。打包客户端（main.py）时推荐使用 UPX 压缩
 
 ```
-pyinstaller.exe -F .\main.py [--upx-dir=UPX路径] [-i 14-garbage-classification-icon.ico]
-pyinstaller.exe -F .\AI_server_listener.py [--upx-dir=UPX路径]
+pyinstaller.exe -F .\main.py [--upx-dir=UPX 路径] [-i 14-garbage-classification-icon.ico]
+pyinstaller.exe -F .\AI_server_listener.py [--upx-dir=UPX 路径]
 ```
 ## Introduction
 当前的体验一般般，模型训练得泛化能力也很不好，但是 anyway，撑过了实训…… 无语的实训…… 不过没有实训，也不会做这个东西，至少算是个项目吧！
