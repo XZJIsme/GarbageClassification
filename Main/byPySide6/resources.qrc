@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/images/label_bg.jpg</file>
+    <file>images/images/厨余垃圾.png</file>
+    <file>images/images/可回收物.png</file>
+    <file>images/images/其他垃圾.png</file>
+    <file>images/images/有害垃圾.png</file>
+    <file>images/images/欢迎页背景图.png</file>
+    <file>images/images/label_default_pic.png</file>
+    <file>images/images/garbage-classification.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>fonts/等距更纱黑体.ttf</file>
+    <file>fonts/SFMonoSC-Regular.ttf</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>images/icons/cil-arrow-bottom.png</file>
+    <file>images/icons/crop_icon.png</file>
+    <file>images/icons/icon_restore.png</file>
+    <file>images/icons/cil-folder-open.png</file>
+    <file>images/icons/icon_close.png</file>
+    <file>images/icons/icon_maximize.png</file>
+    <file>images/icons/icon_minimize.png</file>
+    <file>images/icons/icon-pro.png</file>
+    <file>images/icons/cil-home.png</file>
+    <file>images/icons/icon_menu.png</file>
+    <file>images/icons/icon_settings.png</file>
+  </qresource>
+</RCC>

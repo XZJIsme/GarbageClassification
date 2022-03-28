@@ -1,0 +1,172 @@
+{
+  "garbage": {
+    "0": {
+      "name": "一次性餐盒",
+      "classification": 0
+    },
+    "1": {
+      "name": "污损塑料",
+      "classification": 0
+    },
+    "2": {
+      "name": "烟蒂",
+      "classification": 0
+    },
+    "3": {
+      "name": "牙签",
+      "classification": 0
+    },
+    "4": {
+      "name": "破碎花盆及碟碗",
+      "classification": 0
+    },
+    "5": {
+      "name": "竹筷",
+      "classification": 0
+    },
+    "6": {
+      "name": "剩饭剩菜",
+      "classification": 1
+    },
+    "7": {
+      "name": "大骨头",
+      "classification": 1
+    },
+    "8": {
+      "name": "水果果皮",
+      "classification": 1
+    },
+    "9": {
+      "name": "水果果肉",
+      "classification": 1
+    },
+    "10": {
+      "name": "茶叶渣",
+      "classification": 1
+    },
+    "11": {
+      "name": "菜叶菜根",
+      "classification": 1
+    },
+    "12": {
+      "name": "蛋壳",
+      "classification": 1
+    },
+    "13": {
+      "name": "鱼骨",
+      "classification": 1
+    },
+    "14": {
+      "name": "充电宝",
+      "classification": 2
+    },
+    "15": {
+      "name": "包",
+      "classification": 2
+    },
+    "16": {
+      "name": "化妆品瓶",
+      "classification": 2
+    },
+    "17": {
+      "name": "塑料玩具",
+      "classification": 2
+    },
+    "18": {
+      "name": "塑料碗盆",
+      "classification": 2
+    },
+    "19": {
+      "name": "塑料衣架",
+      "classification": 2
+    },
+    "20": {
+      "name": "快递纸袋",
+      "classification": 2
+    },
+    "21": {
+      "name": "插头电线",
+      "classification": 2
+    },
+    "22": {
+      "name": "旧衣服",
+      "classification": 2
+    },
+    "23": {
+      "name": "易拉罐",
+      "classification": 2
+    },
+    "24": {
+      "name": "枕头",
+      "classification": 2
+    },
+    "25": {
+      "name": "毛绒玩具",
+      "classification": 2
+    },
+    "26": {
+      "name": "洗发水瓶",
+      "classification": 2
+    },
+    "27": {
+      "name": "玻璃杯",
+      "classification": 2
+    },
+    "28": {
+      "name": "皮鞋",
+      "classification": 2
+    },
+    "29": {
+      "name": "砧板",
+      "classification": 2
+    },
+    "30": {
+      "name": "纸板箱",
+      "classification": 2
+    },
+    "31": {
+      "name": "调料瓶",
+      "classification": 2
+    },
+    "32": {
+      "name": "酒瓶",
+      "classification": 2
+    },
+    "33": {
+      "name": "金属食品罐",
+      "classification": 2
+    },
+    "34": {
+      "name": "锅",
+      "classification": 2
+    },
+    "35": {
+      "name": "食用油桶",
+      "classification": 2
+    },
+    "36": {
+      "name": "饮料瓶",
+      "classification": 2
+    },
+    "37": {
+      "name": "干电池",
+      "classification": 3
+    },
+    "38": {
+      "name": "软膏",
+      "classification": 3
+    },
+    "39": {
+      "name": "过期药物",
+      "classification": 3
+    }
+  },
+  "classification": {
+    "0": "其他垃圾",
+    "1": "厨余垃圾",
+    "2": "可回收物",
+    "3": "有害垃圾"
+  }
+
+}
+
