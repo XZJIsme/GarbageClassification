@@ -4,6 +4,8 @@
 <div align=center><img width="392" height="215" src="https://user-images.githubusercontent.com/30148847/160409730-d6d6f0fa-55d1-4dd9-894a-ee020b638463.png"/></div>
 <div align=center><img src="https://user-images.githubusercontent.com/30148847/160409316-e0b306a7-da75-4503-84cd-9ccd7ffea7c9.png"/></div>
 
+Yeah.. drawn by myself... Though it's a bullshit prj, I still tried to make it a fancy thing to let those "teachers" think it's good...
+
 ## Get started
 ```
 pip install -r requirements.txt
@@ -47,5 +49,5 @@ AI 文件夹里的是后端，其余都是客户端
 ·&nbsp;可以自定义图片的&nbsp;resize&nbsp;大小<br>
 ·&nbsp;加入&nbsp;Transformer 模型<br>
 ·&nbsp;优化组件布局<br>
-·&nbsp;将等距更纱黑体嵌入项目
+·&nbsp;将等距更纱黑体嵌入项目<br>
 ·&nbsp;不需要配置本地 IP，直接回传
